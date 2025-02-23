@@ -18,14 +18,14 @@ npx react-native doctor
 ```
 ถ้ามีไม่ครบอาจจะไม่สามารถรันโปรเจคได้ สามารถถาม ChatGpt เพื่อติดตั้งได้
 ตัวอย่างที่สามารถรันได้
- ✓ Adb - Required to verify if the android device is attached correctly
- ✓ JDK - Required to compile Java code
- ✓ Android Studio - Required for building and installing your app on Android
- ✓ ANDROID_HOME - Environment variable that points to your Android SDK installation
- ✓ Gradlew - Build tool required for Android builds
- ✖ Android SDK - Required for building and installing your app on Android
-   - Versions found: N/A
-   - Version supported: 35.0.0
+- ✓ Adb - Required to verify if the android device is attached correctly
+- ✓ JDK - Required to compile Java code
+- ✓ Android Studio - Required for building and installing your app on Android
+- ✓ ANDROID_HOME - Environment variable that points to your Android SDK installation
+- ✓ Gradlew - Build tool required for Android builds
+- ✖ Android SDK - Required for building and installing your app on Android
+    - Versions found: N/A
+    - Version supported: 35.0.0
 
 ### รันโปรเจค
 ```sh
